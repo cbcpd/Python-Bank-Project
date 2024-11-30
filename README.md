@@ -98,13 +98,6 @@ We welcome contributions to enhance the features and improve the system. Feel fr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any queries or issues, please reach out to us through our social media channels:
-
-- [YouTube](https://www.youtube.com/@itsmohitcodes)
-- [Telegram](https://t.me/itsmohitcodes)
-- [Instagram](https://www.instagram.com/itsmohit.codes)
-- [LinkedIn](https://www.linkedin.com/in/itsmohitprajapat/)
 
 Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
